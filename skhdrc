@@ -1,14 +1,14 @@
 # Changing Window Focus
 
 # change window focus within space
-shift - j : yabai -m window --focus south
-shift - k : yabai -m window --focus north
-shift - h : yabai -m window --focus west
-shift - l : yabai -m window --focus east
+alt + ctrl - j : yabai -m window --focus south
+alt + ctrl - k : yabai -m window --focus north
+alt + ctrl - h : yabai -m window --focus west
+alt + ctrl - l : yabai -m window --focus east
 
 # change focus between external displays (left and right)
-shift - s : yabai -m display --focus west
-shift - g : yabai -m display --focus east
+alt + ctrl - s : yabai -m display --focus west
+alt + ctrl - g : yabai -m display --focus east
 
 
 # Modifying the Layout
