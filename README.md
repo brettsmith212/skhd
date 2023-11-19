@@ -13,4 +13,4 @@ or
 - skhd --stop-service
 - skhd --restart-service
 
-**Note:** These commands are based on setting my CapsLock key to Option
+**Note:** These commands are based on setting my CapsLock key to Control
